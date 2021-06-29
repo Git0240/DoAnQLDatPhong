@@ -1,0 +1,27 @@
+C:\Users\BigBoss\Documents\Visual Studio 2013\Projects\DoAnQLDatPhong\DoAnQLDatPhong\DoAnQLDatPhong\DoAnQLDatPhong\DoAnQLDatPhong\bin\Debug\DoAnQLDatPhong.exe.config
+C:\Users\BigBoss\Documents\Visual Studio 2013\Projects\DoAnQLDatPhong\DoAnQLDatPhong\DoAnQLDatPhong\DoAnQLDatPhong\DoAnQLDatPhong\obj\Debug\DoAnQLDatPhong.exe
+C:\Users\BigBoss\Documents\Visual Studio 2013\Projects\DoAnQLDatPhong\DoAnQLDatPhong\DoAnQLDatPhong\DoAnQLDatPhong\DoAnQLDatPhong\obj\Debug\DoAnQLDatPhong.pdb
+C:\Users\BigBoss\Documents\Visual Studio 2013\Projects\DoAnQLDatPhong\DoAnQLDatPhong\DoAnQLDatPhong\DoAnQLDatPhong\DoAnQLDatPhong\bin\Debug\DoAnQLDatPhong.exe
+C:\Users\BigBoss\Documents\Visual Studio 2013\Projects\DoAnQLDatPhong\DoAnQLDatPhong\DoAnQLDatPhong\DoAnQLDatPhong\DoAnQLDatPhong\bin\Debug\DoAnQLDatPhong.pdb
+C:\Users\BigBoss\Documents\Visual Studio 2013\Projects\DoAnQLDatPhong\DoAnQLDatPhong\DoAnQLDatPhong\DoAnQLDatPhong\DoAnQLDatPhong\obj\Debug\DoAnQLDatPhong.csprojResolveAssemblyReference.cache
+C:\Users\BigBoss\Documents\Visual Studio 2013\Projects\DoAnQLDatPhong\DoAnQLDatPhong\DoAnQLDatPhong\DoAnQLDatPhong\DoAnQLDatPhong\obj\Debug\DoAnQLDatPhong.Form1.resources
+C:\Users\BigBoss\Documents\Visual Studio 2013\Projects\DoAnQLDatPhong\DoAnQLDatPhong\DoAnQLDatPhong\DoAnQLDatPhong\DoAnQLDatPhong\obj\Debug\DoAnQLDatPhong.Properties.Resources.resources
+C:\Users\BigBoss\Documents\Visual Studio 2013\Projects\DoAnQLDatPhong\DoAnQLDatPhong\DoAnQLDatPhong\DoAnQLDatPhong\DoAnQLDatPhong\obj\Debug\DoAnQLDatPhong.Views.frmDangKi.resources
+C:\Users\BigBoss\Documents\Visual Studio 2013\Projects\DoAnQLDatPhong\DoAnQLDatPhong\DoAnQLDatPhong\DoAnQLDatPhong\DoAnQLDatPhong\obj\Debug\DoAnQLDatPhong.Views.frmDangNhap.resources
+C:\Users\BigBoss\Documents\Visual Studio 2013\Projects\DoAnQLDatPhong\DoAnQLDatPhong\DoAnQLDatPhong\DoAnQLDatPhong\DoAnQLDatPhong\obj\Debug\DoAnQLDatPhong.Views.frmDichVu.resources
+C:\Users\BigBoss\Documents\Visual Studio 2013\Projects\DoAnQLDatPhong\DoAnQLDatPhong\DoAnQLDatPhong\DoAnQLDatPhong\DoAnQLDatPhong\obj\Debug\DoAnQLDatPhong.Views.frmDoiMK.resources
+C:\Users\BigBoss\Documents\Visual Studio 2013\Projects\DoAnQLDatPhong\DoAnQLDatPhong\DoAnQLDatPhong\DoAnQLDatPhong\DoAnQLDatPhong\obj\Debug\DoAnQLDatPhong.Views.frmKhachHang.resources
+C:\Users\BigBoss\Documents\Visual Studio 2013\Projects\DoAnQLDatPhong\DoAnQLDatPhong\DoAnQLDatPhong\DoAnQLDatPhong\DoAnQLDatPhong\obj\Debug\DoAnQLDatPhong.Views.frmLoaiPhong.resources
+C:\Users\BigBoss\Documents\Visual Studio 2013\Projects\DoAnQLDatPhong\DoAnQLDatPhong\DoAnQLDatPhong\DoAnQLDatPhong\DoAnQLDatPhong\obj\Debug\DoAnQLDatPhong.Views.frmNhanPhong.resources
+C:\Users\BigBoss\Documents\Visual Studio 2013\Projects\DoAnQLDatPhong\DoAnQLDatPhong\DoAnQLDatPhong\DoAnQLDatPhong\DoAnQLDatPhong\obj\Debug\DoAnQLDatPhong.Views.frmPhanQuyen.resources
+C:\Users\BigBoss\Documents\Visual Studio 2013\Projects\DoAnQLDatPhong\DoAnQLDatPhong\DoAnQLDatPhong\DoAnQLDatPhong\DoAnQLDatPhong\obj\Debug\DoAnQLDatPhong.Views.frmPhieuThuePhong.resources
+C:\Users\BigBoss\Documents\Visual Studio 2013\Projects\DoAnQLDatPhong\DoAnQLDatPhong\DoAnQLDatPhong\DoAnQLDatPhong\DoAnQLDatPhong\obj\Debug\DoAnQLDatPhong.Views.frmPhong.resources
+C:\Users\BigBoss\Documents\Visual Studio 2013\Projects\DoAnQLDatPhong\DoAnQLDatPhong\DoAnQLDatPhong\DoAnQLDatPhong\DoAnQLDatPhong\obj\Debug\DoAnQLDatPhong.Views.frmThietBi.resources
+C:\Users\BigBoss\Documents\Visual Studio 2013\Projects\DoAnQLDatPhong\DoAnQLDatPhong\DoAnQLDatPhong\DoAnQLDatPhong\DoAnQLDatPhong\obj\Debug\DoAnQLDatPhong.Views.Print.resources
+C:\Users\BigBoss\Documents\Visual Studio 2013\Projects\DoAnQLDatPhong\DoAnQLDatPhong\DoAnQLDatPhong\DoAnQLDatPhong\DoAnQLDatPhong\obj\Debug\DoAnQLDatPhong.csproj.GenerateResource.Cache
+C:\Users\BigBoss\Documents\Visual Studio 2013\Projects\DoAnQLDatPhong\DoAnQLDatPhong\DoAnQLDatPhong\DoAnQLDatPhong\DoAnQLDatPhong\obj\Debug\DoAnQLDatPhong.exe.licenses
+C:\Users\BigBoss\Documents\Visual Studio 2013\Projects\DoAnQLDatPhong\DoAnQLDatPhong\DoAnQLDatPhong\DoAnQLDatPhong\DoAnQLDatPhong\obj\Debug\DoAnQLDatPhong.Views.ThongKe.resources
+C:\Users\BigBoss\Documents\Visual Studio 2013\Projects\DoAnQLDatPhong\DoAnQLDatPhong\DoAnQLDatPhong\DoAnQLDatPhong\DoAnQLDatPhong\obj\Debug\DoAnQLDatPhong.Views.TraPhong.resources
+C:\Users\BigBoss\Documents\1811546815_NguyenThiTrucGiang\DoAnQLDatPhong\DoAnQLDatPhong\bin\Debug\DoAnQLDatPhong.exe.config
+C:\Users\BigBoss\Documents\1811546815_NguyenThiTrucGiang\DoAnQLDatPhong\DoAnQLDatPhong\obj\Debug\DoAnQLDatPhong.exe
+C:\Users\BigBoss\Documents\1811546815_NguyenThiTrucGiang\DoAnQLDatPhong\DoAnQLDatPhong\obj\Debug\DoAnQLDatPhong.pdb
